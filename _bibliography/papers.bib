@@ -38,7 +38,7 @@
   title={GOMAA-Geo: GOal Modality Agnostic Active Geo-localization},
   author={Sarkar, Anindya and Sastry, Srikumar and Pirinen, Aleksis and Zhang, Chongjie and Jacobs, Nathan and Vorobeychik, Yevgeniy},
   Abstract={We consider the task of active geo-localization (AGL) in which an agent uses a sequence of visual cues observed during aerial navigation to find a target specified through multiple possible modalities. This could emulate a UAV involved in a search-and-rescue operation navigating through an area, observing a stream of aerial images as it goes. The AGL task is associated with two important challenges. Firstly, an agent must deal with a goal specification in one of multiple modalities (e.g., through a natural language description) while the search cues are provided in other modalities (aerial imagery). The second challenge is limited localization time (e.g., limited battery life, urgency) so that the goal must be localized as efficiently as possible, i.e. the agent must effectively leverage its sequentially observed aerial views when searching for the goal. To address these challenges, we propose GOMAA-Geo - a goal modality agnostic active geo-localization agent - for zero-shot generalization between different goal modalities. Our approach combines cross-modality contrastive learning to align representations across modalities with supervised foundation model pretraining and reinforcement learning to obtain highly effective navigation and localization policies. Through extensive evaluations, we show that GOMAA-Geo outperforms alternative learnable approaches and that it generalizes across datasets - e.g., to disaster-hit areas without seeing a single disaster scenario during training - and goal modalities - e.g., to ground-level imagery or textual descriptions, despite only being trained with goals specified as aerial views.},
-  journal={In the 38th Neural Information Processing Systems, 2024.},
+  journal={In the 38th Neural Information Processing Systems, 2024},
   location={Vancouver},
   pages={1-23},
   numpages={23},
@@ -52,12 +52,31 @@
   selected={true}
 }
 
+@article{AAMAS,
+  abbr={AAMAS},
+  title={Geospatial Active Search for Preventing Evictions},
+  author={Sarkar, Anindya and Dichristofano, Alex and Das, Sanmay and Fowler, Patrick and Jacobs, Nathan and Vorobeychik, Yevgeniy},
+  Abstract={Visual active search (VAS) has been proposed as a modeling framework in which visual cues are used to guide exploration, with the goal of identifying regions of interest in a large geospatial area. Its potential applications include identifying hotspots of rare wildlife poaching activity, search-and-rescue scenarios, identifying illegal trafficking of weapons, drugs, or people, and many others. State of the art approaches to VAS include applications of deep reinforcement learning (DRL), which yield end-to-end search policies, and traditional active search, which combines predictions with custom algorithmic approaches. While the DRL framework has been shown to greatly outperform traditional active search in such domains, its end-to-end nature does not make full use of supervised information attained either during training, or during actual search, a significant limitation if search tasks differ significantly from those in the training distribution. We propose an approach that combines the strength of both DRL and conventional active search by decomposing the search policy into a prediction module, which produces a geospatial distribution of regions of interest based on task embedding and search history, and a search module, which takes the predictions and search history as input and outputs the search distribution. We develop a novel meta-learning approach for jointly learning the resulting combined policy that can make effective use of supervised information obtained both at training and decision time. Our extensive experiments demonstrate that the proposed representation and meta-learning frameworks significantly outperform state of the art in visual active search on several problem domains.},
+  journal={In the 23rd International Conference on Autonomous Agents and Multiagent Systems, 2024},
+  location={Auckland},
+  pages={1-14},
+  numpages={14},
+  year={2024},
+  month={May},
+  publisher={AAMAS},
+  pdf={https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2456.pdf},
+  html={https://dl.acm.org/doi/abs/10.5555/3635637.3663192},
+  code={https://github.com/anindyasarkarIITH/PSRL_VAS},
+  dimensions={true},
+  selected={true}
+}
+
 @article{NeurIPS,
   abbr={NeurIPS},
   title={A Partially-Supervised Reinforcement Learning Framework for Visual Active Search},
   author={Sarkar, Anindya and Jacobs, Nathan and Vorobeychik, Yevgeniy},
   Abstract={Visual active search (VAS) has been proposed as a modeling framework in which visual cues are used to guide exploration, with the goal of identifying regions of interest in a large geospatial area. Its potential applications include identifying hotspots of rare wildlife poaching activity, search-and-rescue scenarios, identifying illegal trafficking of weapons, drugs, or people, and many others. State of the art approaches to VAS include applications of deep reinforcement learning (DRL), which yield end-to-end search policies, and traditional active search, which combines predictions with custom algorithmic approaches. While the DRL framework has been shown to greatly outperform traditional active search in such domains, its end-to-end nature does not make full use of supervised information attained either during training, or during actual search, a significant limitation if search tasks differ significantly from those in the training distribution. We propose an approach that combines the strength of both DRL and conventional active search by decomposing the search policy into a prediction module, which produces a geospatial distribution of regions of interest based on task embedding and search history, and a search module, which takes the predictions and search history as input and outputs the search distribution. We develop a novel meta-learning approach for jointly learning the resulting combined policy that can make effective use of supervised information obtained both at training and decision time. Our extensive experiments demonstrate that the proposed representation and meta-learning frameworks significantly outperform state of the art in visual active search on several problem domains.},
-  journal={In the 37th Neural Information Processing Systems, 2023.},
+  journal={In the 37th Neural Information Processing Systems, 2023},
   location={New Orleans},
   pages={1-26},
   numpages={26},

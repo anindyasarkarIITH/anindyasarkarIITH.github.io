@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello!  I'm a Ph.D. Student at Washington University ([WashU](https://washu.edu/)) working under the supervision of Prof. [Yevgeniy Vorobeychik](https://scholar.google.com/citations?user=ptI-HHkAAAAJ&hl=en). Previously, I worked as a Research Assistant (RA) at Indian Institute of Technology, Hyderabad ([IIT-H](https://www.iith.ac.in/))  under the guidance of Prof. [Vineeth N Balasubramanian](https://scholar.google.com/citations?user=7soDcboAAAAJ&hl=en). During my  RA-ship, I worked on Adversarial Machine Learning. Before that, I worked at Quest Global, India as a Deep Learning R&D Engineer. I also graduated from Indian Institute of Technology, Hyderabad with an M.Tech degree. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -52,6 +52,25 @@
   selected={true}
 }
 
+@article{WACV,
+  abbr={WACV},
+  title={A Visual Active Search Framework for Geospatial Exploration},
+  author={Sarkar, Anindya and Lanier, Michael and Scott, Alfeld and Feng, Jiarui and Garnett, Roman and Jacobs, Nathan and Vorobeychik, Yevgeniy},
+  Abstract={Many problems can be viewed as forms of geospatial search aided by aerial imagery, with examples ranging from detecting poaching activity to human trafficking. We model this class of problems in a visual active search (VAS) framework, which has three key inputs: (1) an image of the entire search area, which is subdivided into regions, (2) a local search function, which determines whether a previously unseen object class is present in a given region, and (3) a fixed search budget, which limits the number of times the local search function can be evaluated. The goal is to maximize the number of objects found within the search budget. We propose a reinforcement learning approach for VAS that learns a meta-search policy from a collection of fully annotated search tasks. This meta-search policy is then used to dynamically search for a novel target-object class, leveraging the outcome of any previous queries to determine where to query next. Through extensive experiments on several large-scale satellite imagery datasets, we show that the proposed approach significantly outperforms several strong baselines. We also propose novel domain adaptation techniques that improve the policy at decision time when there is a significant domain gap with the training data. Code is publicly available.},
+  journal={In the IEEE/CVF Winter Conference on Applications of Computer Vision, 2024},
+  location={Hawaii},
+  pages={1-24},
+  numpages={24},
+  year={2024},
+  month={January},
+  publisher={WACV},
+  pdf={https://arxiv.org/pdf/2211.15788},
+  html={https://www.computer.org/csdl/proceedings-article/wacv/2024/189200i301/1W0fbSEoqdO},
+  code={https://github.com/anindyasarkarIITH/VAS},
+  Media={https://engineering.washu.edu/news/2024/Interactive-approach-to-geospatial-search-combines-aerial-imagery-reinforcement-learning.html},
+  dimensions={true}
+}
+
 @article{AAMAS,
   abbr={AAMAS},
   title={Geospatial Active Search for Preventing Evictions},
@@ -86,6 +105,7 @@
   pdf={https://proceedings.neurips.cc/paper_files/paper/2023/file/288b63aa98084366c4536ba0574a0f22-Paper-Conference.pdf},
   html={https://proceedings.neurips.cc/paper_files/paper/2023/hash/288b63aa98084366c4536ba0574a0f22-Abstract-Conference.html},
   code={https://github.com/anindyasarkarIITH/PSRL_VAS},
+  Media={https://engineering.washu.edu/news/2023/Meta-learning-to-find-every-needle-in-a-haystack.html},
   dimensions={true},
   selected={true}
 }

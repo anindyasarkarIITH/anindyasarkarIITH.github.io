@@ -89,7 +89,7 @@
   dimensions={true},
   selected={true}
 }
-Jiarui Feng, Yixin Chen, Fuhai Li, Anindya Sarkar, Muhan Zhang
+
 @article{NeurIPS,
   abbr={NeurIPS},
   title={How powerful are K-hop message passing graph neural networks},
@@ -108,6 +108,65 @@ Jiarui Feng, Yixin Chen, Fuhai Li, Anindya Sarkar, Muhan Zhang
   dimensions={true},
   selected={true}
 }
+
+@article{CVPR,
+  abbr={CVPR},
+  title={A Framework for Learning Ante-hoc Explainable Models via Concepts},
+  author={Sarkar, Anirban and Vijaykeerthy, Deepak and Sarkar, Anindya and Balasubramanian, Vineeth},
+  Abstract={Self-explaining deep models are designed to learn the latent concept-based explanations implicitly during training, which eliminates the requirement of any post-hoc explanation generation technique. In this work, we propose one such model that appends an explanation generation module on top of any basic network and jointly trains the whole module that shows high predictive performance and generates meaningful explanations in terms of concepts. Our training strategy is suitable for unsupervised concept learning with much lesser parameter space requirements compared to baseline methods. Our proposed model also has provision for leveraging self-supervision on concepts to extract better explanations. However, with full concept supervision, we achieve the best predictive performance compared to recently proposed concept-based explainable models. We report both qualitative and quantitative results with our method, which shows better performance than recently proposed concept-based explainability methods. We reported exhaustive results with two datasets without ground truth concepts, i.e., CIFAR10, ImageNet, and two datasets with ground truth concepts, i.e., AwA2, CUB-200, to show the effectiveness of our method for both cases. To the best of our knowledge, we are the first ante-hoc explanation generation method to show results with a large-scale dataset such as ImageNet.},
+  journal={In the IEEE / CVF Computer Vision and Pattern Recognition Conference, 2022},
+  location={New Orleans},
+  pages={1-16},
+  numpages={16},
+  year={2022},
+  month={June},
+  publisher={CVPR},
+  pdf={https://arxiv.org/pdf/2108.11761v2},
+  html={https://ieeexplore.ieee.org/document/9879843},
+  code={https://github.com/anirbansarkar-cs/Ante-hoc_Explainability_Concepts},
+  dimensions={true},
+  selected={true}
+}
+
+@article{NeurIPS,
+  abbr={NeurIPS},
+  title={Get Fooled for the Right Reason: Improving Adversarial Robustness through a Teacher-guided Curriculum Learning Approach},
+  author={Sarkar, Anindya and Sarkar, Anirban and Gali, Sowrya and Balasubramanian, Vineeth},
+  Abstract={Current SOTA adversarially robust models are mostly based on adversarial training (AT) and differ only by some regularizers either at inner maximization or outer minimization steps. Being repetitive in nature during the inner maximization step, they take a huge time to train. We propose a non-iterative method that enforces the following ideas during training. Attribution maps are more aligned to the actual object in the image for adversarially robust models compared to naturally trained models. Also, the allowed set of pixels to perturb an image (that changes model decision) should be restricted to the object pixels only, which reduces the attack strength by limiting the attack space. Our method achieves significant performance gains with a little extra effort (10-20%) over existing AT models and outperforms all other methods in terms of adversarial as well as natural accuracy. We have performed extensive experimentation with CIFAR-10, CIFAR-100, and TinyImageNet datasets and reported results against many popular strong adversarial attacks to prove the effectiveness of our method.},
+  journal={In the 35th Neural Information Processing Systems, 2021},
+  location={Vancouver},
+  pages={1-16},
+  numpages={16},
+  year={2021},
+  month={December},
+  publisher={NeurIPS},
+  pdf={https://arxiv.org/pdf/2111.00295},
+  html={https://dl.acm.org/doi/10.5555/3540261.3541244},
+  code={https://github.com/sowgali/Get-Fooled-for-the-Right-Reason},
+  dimensions={true},
+  selected={true}
+}
+
+@article{AAAI,
+  abbr={AAAI},
+  title={Enhanced Regularizers for Attributional Robustness},
+  author={Sarkar, Anindya and Sarkar, Anirban and Balasubramanian, Vineeth},
+  Abstract={Deep neural networks are the default choice of learning models for computer vision tasks. Extensive work has been carried out in recent years on explaining deep models for vision tasks such as classification. However, recent work has shown that it is possible for these models to produce substantially different attribution maps even when two very similar images are given to the network, raising serious questions about trustworthiness. To address this issue, we propose a robust attribution training strategy to improve attributional robustness of deep neural networks. Our method carefully analyzes the requirements for attributional robustness and introduces two new regularizers that preserve a model's attribution map during attacks. Our method surpasses state-of-the-art attributional robustness methods by a margin of approximately 3% to 9% in terms of attribution robustness measures on several datasets including MNIST, FMNIST, Flower and GTSRB.},
+  journal={In the 35th AAAI Conference on Artificial Intelligence, 2021},
+  location={Vancouver},
+  pages={1-16},
+  numpages={16},
+  year={2021},
+  month={February},
+  publisher={AAAI},
+  pdf={https://arxiv.org/pdf/2012.14395},
+  html={https://ojs.aaai.org/index.php/AAAI/article/view/16355},
+  code={https://github.com/anirbansarkar-cs/Enhanced_regularizers_attributional_robustness},
+  dimensions={true},
+  selected={true}
+}
+
+
 
 @article{einstein1905molekularkinetischen,
   title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},

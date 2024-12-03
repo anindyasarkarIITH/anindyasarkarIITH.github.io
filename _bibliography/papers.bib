@@ -90,6 +90,24 @@
   selected={true}
 }
 
+@article{AAAI Workshop,
+  abbr={AAAI Workshop},
+  title={Attacks on Node Attributes in Graph Neural Networks},
+  author={Ying, Xu and Lanier, Michael and Sarkar, Anindya and Vorobeychik, Yevgeniy},
+  Abstract={Graphs are commonly used to model complex networks prevalent in modern social media and literacy applications. Our research investigates the vulnerability of these graphs through the application of feature based adversarial attacks, focusing on both decision-time attacks and poisoning attacks. In contrast to state-of-the-art models like Net Attack and Meta Attack, which target node attributes and graph structure, our study specifically targets node attributes. For our analysis, we utilized the text dataset Hellaswag and graph datasets Cora and CiteSeer, providing a diverse basis for evaluation. Our findings indicate that decision-time attacks using Projected Gradient Descent (PGD) are more potent compared to poisoning attacks that employ Mean Node Embeddings and Graph Contrastive Learning strategies. This provides insights for graph data security, pinpointing where graph-based models are most vulnerable and thereby informing the development of stronger defense mechanisms against such attacks.},
+  journal={In the AAAI Workshop on "AI for Cyber Security", 2024},
+  location={Vancouver},
+  pages={1-9},
+  numpages={9},
+  year={2024},
+  month={March},
+  publisher={AAAI Workshop},
+  pdf={https://arxiv.org/pdf/2402.12426},
+  html={https://arxiv.org/abs/2402.12426},
+  code={https://github.com/YingXu001/Attacks_on_Graph_Node_Attributes},
+  dimensions={true}
+}
+
 @article{NeurIPS,
   abbr={NeurIPS},
   title={A Partially-Supervised Reinforcement Learning Framework for Visual Active Search},
@@ -147,6 +165,25 @@
   dimensions={true},
   selected={true}
 }
+
+@article{GAMESEC,
+  abbr={GAMESEC},
+  title={Reward Delay Attacks on Deep Reinforcement Learning},
+  author={Sarkar, Anindya and Feng, Jiarui and Vorobeychik, Yevgeniy and Gill, Christopher and Zhang, Ning},
+  Abstract={Most reinforcement learning algorithms implicitly assume strong synchrony. We present novel attacks targeting Q-learning that exploit a vulnerability entailed by this assumption by delaying the reward signal for a limited time period. We consider two types of attack goals: targeted attacks, which aim to cause a target policy to be learned, and untargeted attacks, which simply aim to induce a policy with a low reward. We evaluate the efficacy of the proposed attacks through a series of experiments. Our first observation is that reward-delay attacks are extremely effective when the goal is simply to minimize reward. Indeed, we find that even naive baseline reward-delay attacks are also highly successful in minimizing the reward. Targeted attacks, on the other hand, are more challenging, although we nevertheless demonstrate that the proposed approaches remain highly effective at achieving the attacker's targets. In addition, we introduce a second threat model that captures a minimal mitigation that ensures that rewards cannot be used out of sequence. We find that this mitigation remains insufficient to ensure robustness to attacks that delay, but preserve the order, of rewards.},
+  journal={In the 13th Conference on Decision and Game Theory for Security, 2022},
+  location={Pittsburgh},
+  pages={1-20},
+  numpages={20},
+  year={2022},
+  month={March},
+  publisher={GAMESEC},
+  pdf={https://arxiv.org/abs/2209.03540v1},
+  html={https://arxiv.org/pdf/2209.03540v1},
+  code={https://github.com/anindyasarkarIITH/Reward_Delay_Attack_DRL},
+  dimensions={true}
+}
+
 
 @article{NeurIPS,
   abbr={NeurIPS},

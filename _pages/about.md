@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Washington University (WashU)</a>. Ph.D. Student in Computer Science Department
 
 profile:
   align: right

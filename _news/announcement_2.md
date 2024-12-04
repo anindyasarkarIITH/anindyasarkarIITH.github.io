@@ -6,5 +6,5 @@ inline: false
 related_posts: false
 ---
 
-Serving as a Reviewer at ICLR 2025.
+Serving as a Reviewer at **ICLR 2025**.
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as a Program Committee Member/ Reviewer at AAMAS 2025 and AAAI 2025 AI for Social Impact Track
+Serving as a Program Committee Member/ Reviewer at **AAMAS 2025** and **AAAI 2025 AI for Social Impact Track**.

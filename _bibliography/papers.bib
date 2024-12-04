@@ -1,16 +1,6 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
 @book{einstein1956investigations,
   bibtex_show={true},
   title={Investigations on the Theory of the Brownian Movement},
@@ -20,18 +10,6 @@
   preview={brownian-motion.gif}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
 
 @article{NeurIPS,
   abbr={NeurIPS},
@@ -166,6 +144,23 @@
   selected={true}
 }
 
+@article{WACV,
+  abbr={WACV},
+  title={Leveraging Test-Time Consensus Prediction for Robustness against Unseen Noise},
+  author={Sarkar, Anindya and Sarkar, Anirban and Balasubramanian, Vineeth},
+  Abstract={We propose a method to improve DNN robustness against unseen noisy corruptions, such as Gaussian noise, Shot Noise, Impulse Noise, Speckle noise with different levels of severity by leveraging ensemble technique through a consensus based prediction method using self-supervised learning at inference time. We also propose to enhance the model training by considering other aspects of the issue i.e. noise in data and better representation learning which shows even better generalization performance with the consensus based prediction strategy. We report results of each noisy corruption on the standard CIFAR10-C and ImageNet-C benchmark which shows significant boost in performance over previous methods. We also introduce results for MNIST-C and TinyImagenet-C to show usefulness of our method across datasets of different complexities to provide robustness against unseen noise. We show results with different architectures to validate our method against other baseline methods, and also conduct experiments to show the usefulness of each part of our method.},
+  journal={In the IEEE/CVF Winter Conference on Applications of Computer Vision, 2022},
+  location={Hawaii},
+  pages={1-15},
+  numpages={15},
+  year={2022},
+  month={October},
+  publisher={WACV},
+  pdf={https://openaccess.thecvf.com/content/WACV2022/papers/Sarkar_Leveraging_Test-Time_Consensus_Prediction_for_Robustness_Against_Unseen_Noise_WACV_2022_paper.pdf},
+  html={https://openaccess.thecvf.com/content/WACV2022/html/Sarkar_Leveraging_Test-Time_Consensus_Prediction_for_Robustness_Against_Unseen_Noise_WACV_2022_paper.html},
+  dimensions={true}
+}
+
 @article{GAMESEC,
   abbr={GAMESEC},
   title={Reward Delay Attacks on Deep Reinforcement Learning},
@@ -176,7 +171,7 @@
   pages={1-20},
   numpages={20},
   year={2022},
-  month={March},
+  month={October},
   publisher={GAMESEC},
   pdf={https://arxiv.org/abs/2209.03540v1},
   html={https://arxiv.org/pdf/2209.03540v1},
@@ -223,57 +218,40 @@
   selected={true}
 }
 
-
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{ICANN,
+  abbr={ICANN},
+  title={Enforcing Linearity in DNN succours Robustness and Adversarial Image Generation},
+  author={Sarkar, Anindya and Iyengar, Raghu},
+  Abstract={Recent studies on the adversarial vulnerability of neural networks have shown that models trained with the objective of minimizing an upper bound on the worst-case loss over all possible adversarial perturbations improve robustness against adversarial attacks. Beside exploiting adversarial training framework, we show that by enforcing a Deep Neural Network (DNN) to be linear in transformed input and feature space improves robustness significantly. We also demonstrate that by augmenting the objective function with Local Lipschitz regularizer boost robustness of the model further. Our method outperforms most sophisticated adversarial training methods and achieves state of the art adversarial accuracy on MNIST, CIFAR10 and SVHN dataset. In this paper, we also propose a novel adversarial image generation method by leveraging Inverse Representation Learning and Linearity aspect of an adversarially trained deep neural network classifier.},
+  journal={In the 29th International Conference on Artificial Neural Network, 2020},
+  location={Slovakia},
+  pages={1-9},
+  numpages={9},
+  year={2020},
+  month={September},
+  publisher={ICANN},
+  pdf={https://arxiv.org/pdf/1910.08108},
+  html={https://link.springer.com/chapter/10.1007/978-3-030-61609-0_5},
+  dimensions={true},
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{ICMLA,
+  abbr={ICMLA},
+  title={ODE guided Neural Data Augmentation Techniques for Time Series Data and its Benefits on Robustness},
+  author={Sarkar, Anindya and Raj, Anirudh and Iyengar, Raghu},
+  Abstract={Exploring adversarial attack vectors and studying their effects on machine learning algorithms has been of interest to researchers. Deep neural networks working with time series data have received lesser interest compared to their image counterparts in this context. In a recent finding, it has been revealed that current state-of-the-art deep learning time series classifiers are vulnerable to adversarial attacks. In this paper, we introduce two local gradient based and one spectral density based time series data augmentation techniques. We show that a model trained with data obtained using our techniques obtains state-of-the-art classification accuracy on various time series benchmarks. In addition, it improves the robustness of the model against some of the most common corruption techniques,such as Fast Gradient Sign Method (FGSM) and Basic Iterative Method (BIM).},
+  journal={In the 19th International Conference on Machine Learning and Applications, 2020},
+  location={Florida},
+  pages={1-8},
+  numpages={8},
+  year={2020},
+  month={December},
+  publisher={ICMLA},
+  pdf={https://arxiv.org/pdf/1910.06813},
+  html={https://www.researchgate.net/publication/349566901_Neural_Data_Augmentation_Techniques_for_Time_Series_Data_and_its_Benefits},
+  dimensions={true},
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
-}
+

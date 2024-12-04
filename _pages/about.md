@@ -9,7 +9,7 @@ profile:
   image: IMG-20240511-WA0006.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3rd Floor Mckelvey Hall (1020)</p>
+    <p>3rd Floor Mckelvey Hall 1020</p>
     <p>123 1 Brookings Dr.</p>
     <p>St. Louis, Missouri 63130</p>
 

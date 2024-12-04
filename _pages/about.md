@@ -21,6 +21,3 @@ social: true # includes social icons at the bottom of the page
 
 **Research:** My goal is to build powerful AI models capable of understanding, generating, and reasoning with high-dimensional data across diverse modalities. I am interested in developing methods to solve real-world problems of broad societal relevance involving Sequential Decision-making under Uncertainty. Currently, my focus is on leveraging Generative Modeling techniques to enhance decision-making under partial observability, while also investigating their potential to drive scientific discovery.
 
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

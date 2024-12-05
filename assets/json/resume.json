@@ -136,22 +136,19 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence and Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Generative Modeling",
+        "Reinforcement Learning",
+        "Adversarial Machine Learning",
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,28 +160,25 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence and Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+       "Generative Modeling",
+        "Reinforcement Learning",
+        "Adversarial Machine Learning"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Yevgeniy Vorobeychik",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Vineeth N Balasubramanian",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": " "
     }
   ],
   "projects": [

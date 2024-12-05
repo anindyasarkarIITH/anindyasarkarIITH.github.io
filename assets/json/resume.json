@@ -6,7 +6,7 @@
     "email": "anindyasarkar.ece@gmail.com",
     "phone": "(314) 912-5116",
     "url": "https://anindyasarkariith.github.io/",
-    "summary": "",
+    "summary": " ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -142,7 +142,7 @@
       "keywords": [
         "Generative Modeling",
         "Reinforcement Learning",
-        "Adversarial Machine Learning",
+        "Adversarial Machine Learning"
       ]
     }
   ],
@@ -173,7 +173,7 @@
     {
       "name": "Professor Yevgeniy Vorobeychik",
       "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "reference": " "
     },
     {
       "name": "Professor Vineeth N Balasubramanian",

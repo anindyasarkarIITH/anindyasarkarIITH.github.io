@@ -52,7 +52,7 @@
       "area": "Artificial Intelligence and Machine Learning",
       "studyType": "MS",
       "startDate": "2021-09-09",
-      "endDate": "2024-12-11",
+      "endDate": "2024-06-11",
       "score": "",
       "courses": ["Machine Learning, Artificial Intelligence, Non-Linear Optimization"]
     },
@@ -66,6 +66,17 @@
       "endDate": "2016-12-11",
       "score": "",
       "courses": ["Computational Neuroscience, Digital Signal Processing"]
+    },
+    {
+      "institution": "West Bengal University of Technology",
+      "location": "Kolkata, INDIA",
+      "url": "https://washu.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "MS",
+      "startDate": "2014-09-09",
+      "endDate": "2016-12-11",
+      "score": "",
+      "courses": ["Embedded System, Probability and Stochastic Process, Linear Algebra"]
     }
   ],
    "awards": [

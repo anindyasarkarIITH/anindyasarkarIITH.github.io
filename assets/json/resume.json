@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Anindya Sarkar",
-    "label": "Researcher",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "anindyasarkar.ece@gmail.com",
-    "phone": "(314) 912-5116",
-    "url": "https://anindyasarkariith.github.io/",
-    "summary": " ",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,48 +24,48 @@
   },
   "work": [
     {
-      "name": "Quest Global Pvt. Ltd.",
-      "position": "Research and Development Engineer",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
-      "startDate": "2016-07-21",
-      "endDate": "2020-03-17",
-      "summary": "Extensively worked on a broad range of Deep Learning applications in Computer Vision and Natural Language Processing tasks.",
-      "highlights": ["Deep Learning for Computer Vision and Natural Language Processing"]
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "Washington University",
-      "location": "St. Louis, USA",
-      "url": "https://washu.edu/",
-      "area": "Artificial Intelligence",
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "2021-09-09",
-      "endDate": "2027-01-01",
-      "score": "",
-      "courses": ["Reinforcement Learning, Bayesian Methods in Machine Learning, Adversarial Machine Learning"]
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
     {
-      "title": "Ministry of Human Resource Development (MHRD) scholarship",
-      "date": "2014-07-01",
-      "awarder": "Govt. of India",
-      "url": "",
-      "summary": "MHRD scholarship was awarded to pursue Masters study.'"
-    },
-    {
-      "title": "Honors",
-      "date": "2024-07-01",
-      "awarder": "Department of CSE at WashU",
-      "summary": "Selected as top 15% PhD student.'"
-    },
-    {
-      "title": "AAMAS Student Scholarship",
-      "date": "2024-05-01",
-      "awarder": "AAMAS Conference committee",
-      "summary": "Awarded AAMAS-24 Student Scholarship to attend the conference and doctoral consortium.'"
-    },
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
   ],
   "certificates": [
     {
@@ -136,19 +136,22 @@
   ],
   "skills": [
     {
-      "name": "Artificial Intelligence and Machine Learning",
+      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Generative Modeling",
-        "Reinforcement Learning",
-        "Adversarial Machine Learning"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Bengali",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -160,25 +163,28 @@
   ],
   "interests": [
     {
-      "name": "Artificial Intelligence and Machine Learning",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-       "Generative Modeling",
-        "Reinforcement Learning",
-        "Adversarial Machine Learning"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor Yevgeniy Vorobeychik",
+      "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
-      "reference": " "
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor Vineeth N Balasubramanian",
+      "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
-      "reference": " "
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [

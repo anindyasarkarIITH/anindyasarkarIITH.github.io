@@ -44,6 +44,17 @@
       "endDate": "2027-01-01",
       "score": "",
       "courses": ["Reinforcement Learning, Bayesian Methods in Machine Learning, Adversarial Machine Learning"]
+    },
+    {
+      "institution": "Washington University",
+      "location": "St. Louis, USA",
+      "url": "https://washu.edu/",
+      "area": "Artificial Intelligence",
+      "studyType": "PhD",
+      "startDate": "2021-09-09",
+      "endDate": "2027-01-01",
+      "score": "",
+      "courses": ["Reinforcement Learning, Bayesian Methods in Machine Learning, Adversarial Machine Learning"]
     }
   ],
    "awards": [

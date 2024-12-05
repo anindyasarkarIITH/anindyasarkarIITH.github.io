@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Anindya Sarkar",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "anindyasarkar.ece@gmail.com",
+    "phone": "(314) 912-5116",
+    "url": "https://anindyasarkariith.github.io/",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Quest Global Pvt. Ltd.",
+      "position": "Research and Development Engineer",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2016-07-21",
+      "endDate": "2020-03-17",
+      "summary": "Extensively worked on a broad range of Deep Learning applications in Computer Vision and Natural Language Processing tasks.",
+      "highlights": ["Deep Learning for Computer Vision and Natural Language Processing"]
     }
   ],
   "volunteer": [

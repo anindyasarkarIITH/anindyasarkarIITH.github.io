@@ -38,7 +38,7 @@
       "institution": "Washington University",
       "location": "St. Louis, USA",
       "url": "https://washu.edu/",
-      "area": "Artificial Intelligence",
+      "area": "Artificial Intelligence and Machine Learning",
       "studyType": "PhD",
       "startDate": "2021-09-09",
       "endDate": "2027-01-01",
@@ -49,12 +49,23 @@
       "institution": "Washington University",
       "location": "St. Louis, USA",
       "url": "https://washu.edu/",
-      "area": "Artificial Intelligence",
-      "studyType": "PhD",
+      "area": "Artificial Intelligence and Machine Learning",
+      "studyType": "MS",
       "startDate": "2021-09-09",
-      "endDate": "2027-01-01",
+      "endDate": "2024-12-11",
       "score": "",
-      "courses": ["Reinforcement Learning, Bayesian Methods in Machine Learning, Adversarial Machine Learning"]
+      "courses": ["Machine Learning, Artificial Intelligence, Non-Linear Optimization"]
+    },
+    {
+      "institution": "Indian Institute of Technology, Hyderabad",
+      "location": "Hyderabad, INDIA",
+      "url": "https://washu.edu/",
+      "area": "Computational Neuroscience",
+      "studyType": "MS",
+      "startDate": "2014-09-09",
+      "endDate": "2016-12-11",
+      "score": "",
+      "courses": ["Computational Neuroscience, Digital Signal Processing"]
     }
   ],
    "awards": [

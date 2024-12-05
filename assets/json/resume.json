@@ -172,7 +172,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -184,15 +184,12 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence and Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Generative Modelling",
+        "Reinforcement Learning",
+        "Adversarial Machine Learning"
       ]
     }
   ],

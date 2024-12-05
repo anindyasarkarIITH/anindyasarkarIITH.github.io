@@ -46,14 +46,25 @@
       "courses": ["Reinforcement Learning, Bayesian Methods in Machine Learning, Adversarial Machine Learning"]
     }
   ],
-  "awards": [
+   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Ministry of Human Resource Development (MHRD) scholarship",
+      "date": "2014-07-01",
+      "awarder": "Govt. of India",
+      "summary": "MHRD scholarship was awarded to pursue Masters study.'"
+    },
+    {
+      "title": "Honors",
+      "date": "2024-07-01",
+      "awarder": "Department of CSE at WashU",
+      "summary": "Selected as top 15% PhD student.'"
+    },
+    {
+      "title": "AAMAS Student Scholarship",
+      "date": "2024-05-01",
+      "awarder": "AAMAS Conference committee",
+      "summary": "Awarded AAMAS-24 Student Scholarship to attend the conference and doctoral consortium.'"
+    },
   ],
   "certificates": [
     {

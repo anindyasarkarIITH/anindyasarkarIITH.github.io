@@ -15,9 +15,9 @@ Many problems can be viewed as forms of geospatial search aided by aerial imager
 
 1.  [A Visual Active Search Framework for Geospatial Exploration](https://openaccess.thecvf.com/content/WACV2024/html/Sarkar_A_Visual_Active_Search_Framework_for_Geospatial_Exploration_WACV_2024_paper.html) (WACV 2024)
 
-2.  [A Partially-Supervised Reinforcement Learning Framework for Visual Active Search] (https://proceedings.neurips.cc/paper_files/paper/2023/hash/288b63aa98084366c4536ba0574a0f22-Abstract-Conference.html) (NeurIPS 2023)
+2.  [A Partially-Supervised Reinforcement Learning Framework for Visual Active Search](https://proceedings.neurips.cc/paper_files/paper/2023/hash/288b63aa98084366c4536ba0574a0f22-Abstract-Conference.html) (NeurIPS 2023)
 
-3.  [Geospatial Active Search for Preventing Evictions] (https://dl.acm.org/doi/abs/10.5555/3635637.3663192) (AAMAS 2024)
+3.  [Geospatial Active Search for Preventing Evictions](https://dl.acm.org/doi/abs/10.5555/3635637.3663192) (AAMAS 2024)
 
 
 <div class="row">

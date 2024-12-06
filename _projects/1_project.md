@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Visual Active Search
 description: Visual Active Search
 img: assets/img/12.jpg
 importance: 1
@@ -15,24 +15,20 @@ Many problems can be viewed as forms of geospatial search aided by aerial imager
 
 1.  [A Visual Active Search Framework for Geospatial Exploration](https://openaccess.thecvf.com/content/WACV2024/html/Sarkar_A_Visual_Active_Search_Framework_for_Geospatial_Exploration_WACV_2024_paper.html) (WACV 2024)
 
-2.  
+2.  [A Partially-Supervised Reinforcement Learning Framework for Visual Active Search] (https://proceedings.neurips.cc/paper_files/paper/2023/hash/288b63aa98084366c4536ba0574a0f22-Abstract-Conference.html) (NeurIPS 2023)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+3.  [Geospatial Active Search for Preventing Evictions] (https://dl.acm.org/doi/abs/10.5555/3635637.3663192) (AAMAS 2024)
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Project2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/H-GAS (2).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

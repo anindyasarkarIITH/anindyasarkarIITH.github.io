@@ -2,7 +2,7 @@
 layout: page
 title: Visual Active Search
 description: Visual Active Search
-img: assets/img/project1.jpg
+img: assets/img/p1_port.jpg
 importance: 1
 category: work
 related_publications: false

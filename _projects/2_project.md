@@ -3,7 +3,7 @@ layout: page
 title: Active exploration in Partially Observable Environment
 description: Active exploration in Partially Observable Environment
 img: assets/img/pp2_port.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---

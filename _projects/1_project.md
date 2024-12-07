@@ -2,21 +2,15 @@
 layout: page
 title: Visual Active Search
 description: Visual Active Search
-img: assets/img/12.jpg
+img: assets/img/project1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 **Objective:**
 Many problems can be viewed as forms of geospatial search aided by aerial imagery, with examples ranging from detecting poaching activity to human trafficking. We model this class of problems in a visual active search (VAS) framework, which has three key inputs:(1) an image of the entire search area, which is subdivided into regions,(2) a local search function, that determines whether a previously unseen object class is present in a given region, and (3) a fixed search budget, which limits the number of times the local search function can be evaluated. The goal is to maximize the number of objects found within the search budget. 
 
----
-layout: page
-title: project
-description: a project with a background image
-img: /assets/img/project1.jpg
----
 
 **Related Publications:**
 
@@ -44,6 +38,5 @@ img: /assets/img/project1.jpg
 
 {% raw %}
 
-```
 
 {% endraw %}

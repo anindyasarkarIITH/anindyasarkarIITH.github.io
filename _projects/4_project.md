@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: XAI and Adversarial ML
+description: XAI and Adversarial ML
+img: 
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

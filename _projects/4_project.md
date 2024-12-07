@@ -11,7 +11,7 @@ category: work
 
 **Related Publications:**
 
-1. [Get Fooled for the Right Reason: Improving Adversarial Robustness through a Teacher-guided Curriculum Learning Approach[(https://arxiv.org/pdf/2111.00295) (NeurIPS 2021)
+1. [Get Fooled for the Right Reason: Improving Adversarial Robustness through a Teacher-guided Curriculum Learning Approach](https://arxiv.org/pdf/2111.00295) (NeurIPS 2021)
 
 2. [Enhanced Regularizers for Attributional Robustness](https://ojs.aaai.org/index.php/AAAI/article/view/16355) (AAAI 2022)
 

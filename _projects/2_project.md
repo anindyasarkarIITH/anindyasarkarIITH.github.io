@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Active exploration in Partially Observable Environment
-description: Active exploration in Partially Observable Environment
+title: Active Exploration in Partially Observable Environment
+description: Active Exploration in Partially Observable Environment
 img: assets/img/pp2_port.jpg
 importance: 2
 category: work

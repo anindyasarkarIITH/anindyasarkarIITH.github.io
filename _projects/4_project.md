@@ -5,6 +5,7 @@ description: XAI and Adversarial ML
 img: assets/img/P4.jpg
 importance: 3
 category: work
+related_publications: false
 ---
 
 **Objective:** We aim to make deep neural networks robust against different kinds of adversarial and attributional attacks. We further investigate the connection between robustness and explainability. We also explore adversarial attacks on Deep Reinforcement Learning and Graph Neural networks. 

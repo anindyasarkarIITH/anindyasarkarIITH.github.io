@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Others
-description: Reinforcement Learning / Graph Neural Network
+description: Reinforcement Learning, Graph Neural Network
 img: assets/img/4.jpg
-importance: 6
+importance: 5
 category: work
 ---
 
-Coming soon..
+Coming soon.
 
 
 {% endraw %}

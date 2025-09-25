@@ -62,22 +62,11 @@
       "url": "https://www.iith.ac.in/",
       "area": "Computational Neuroscience",
       "studyType": "MS",
-      "startDate": "2014-09-09",
+      "startDate": "2012-09-09",
       "endDate": "2016-12-11",
       "score": "",
-      "courses": ["Computational Neuroscience, Digital Signal Processing"]
+      "courses": ["Computational Neuroscience, Digital Signal Processing, Probability and Stochastic Process, Linear Algebra"]
     },
-    {
-      "institution": "West Bengal University of Technology",
-      "location": "Kolkata, INDIA",
-      "url": "https://makautwb.ac.in/",
-      "area": "Electronics and Communication",
-      "studyType": "BS",
-      "startDate": "2008-09-09",
-      "endDate": "2012-12-11",
-      "score": "",
-      "courses": ["Embedded System, Probability and Stochastic Process, Linear Algebra"]
-    }
   ],
    "awards": [
     {

@@ -1,9 +1,47 @@
 ---
 ---
+@article{NeurIPS,
+  abbr={NeurIPS},
+  title={Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory},
+  author={Sarkar, Anindya and Ji, Binglin and Vorobeychik, Yevgeniy},
+  Abstract={In many scientific and engineering fields, where acquiring high-quality data is expensive--such as medical imaging, environmental monitoring, and remote sensing--strategic sampling of unobserved regions based on prior observations is crucial for maximizing discovery rates within a constrained budget. The rise of powerful generative models, such as diffusion models, has enabled active target discovery in partially observable environments by leveraging learned priors--probabilistic representations that capture underlying structure from data. With guidance from sequentially gathered task-specific observations, these models can progressively refine exploration and efficiently direct queries toward promising regions. However, in domains where learning a strong prior is infeasible due to extremely limited data or high sampling cost (such as rare species discovery, diagnostics for emerging diseases, etc.), these methods struggle to generalize. To overcome this limitation, we propose a novel approach that enables effective active target discovery even in settings with uninformative priors, ensuring robust exploration and adaptability in complex real-world scenarios. Our framework is theoretically principled and draws inspiration from neuroscience to guide its design. Unlike black-box policies, our approach is inherently interpretable, providing clear insights into decision-making. Furthermore, it guarantees a strong, monotonic improvement in prior estimates with each new observation, leading to increasingly accurate sampling and reinforcing both reliability and adaptability in dynamic settings. Through comprehensive experiments and ablation studies across various domains, including species distribution modeling and remote sensing, we demonstrate that our method substantially outperforms baseline approaches.},
+  journal={In the 39th Neural Information Processing Systems, 2025},
+  location={San Diego},
+  pages={1-32},
+  numpages={32},
+  year={2025},
+  month={December},
+  publisher={NeurIPS},
+  pdf={https://arxiv.org/abs/2510.16676},
+  html={https://arxiv.org/abs/2510.16676},
+  code={https://github.com/KevinG396/EM_PTDM},
+  dimensions={true},
+  selected={true}
+}
+
+@article{NeurIPS,
+  abbr={NeurIPS},
+  title={Online Feedback Efficient Active Target Discovery in Partially Observable Environments},
+  author={Sarkar, Anindya and Ji, Binglin and Vorobeychik, Yevgeniy},
+  Abstract={In various scientific and engineering domains, where data acquisition is costly--such as in medical imaging, environmental monitoring, or remote sensing--strategic sampling from unobserved regions, guided by prior observations, is essential to maximize target discovery within a limited sampling budget. In this work, we introduce Diffusion-guided Active Target Discovery (DiffATD), a novel method that leverages diffusion dynamics for active target discovery. DiffATD maintains a belief distribution over each unobserved state in the environment, using this distribution to dynamically balance exploration-exploitation. Exploration reduces uncertainty by sampling regions with the highest expected entropy, while exploitation targets areas with the highest likelihood of discovering the target, indicated by the belief distribution and an incrementally trained reward model designed to learn the characteristics of the target. DiffATD enables efficient target discovery in a partially observable environment within a fixed sampling budget, all without relying on any prior supervised training. Furthermore, DiffATD offers interpretability, unlike existing black--box policies that require extensive supervised training. Through extensive experiments and ablation studies across diverse domains, including medical imaging, species discovery, and remote sensing, we show that DiffATD performs significantly better than baselines and competitively with supervised methods that operate under full environmental observability.},
+  journal={In the 39th Neural Information Processing Systems, 2025},
+  location={San Diego},
+  pages={1-31},
+  numpages={31},
+  year={2025},
+  month={December},
+  publisher={NeurIPS},
+  pdf={https://www.arxiv.org/abs/2505.06535},
+  html={https://www.arxiv.org/abs/2505.06535},
+  code={https://github.com/KevinG396/DiffATD},
+  dimensions={true},
+  selected={true}
+}
+
 @article{ICML,
   abbr={ICML},
   title={Learning Policy Committees for Effective Personalization in MDPs with Diverse Tasks},
-  author={Ge, Luise and Lanier, Michael and Sarkar, Anindya and Bengisu, Guresti and Zhang, Chongjie and Vorobeychik, Yevgeniy},
+  author={Ge, Luise and Lanier, Michael and Sarkar, Anindya and Guresti, Bengisu and Zhang, Chongjie and Vorobeychik, Yevgeniy},
   Abstract={Many dynamic decision problems, such as robotic control, involve a series of tasks, many of which are unknown at training time. Typical approaches for these problems, such as multi-task and meta reinforcement learning, do not generalize well when the tasks are diverse. On the other hand, approaches that aim to tackle task diversity, such as using task embedding as policy context and task clustering, typically lack performance guarantees and require a large number of training tasks. To address these challenges, we propose a novel approach for learning a policy committee that includes at least one near-optimal policy with high probability for tasks encountered during execution. While we show that this problem is in general inapproximable, we present two practical algorithmic solutions. The first yields provable approximation and task sample complexity guarantees when tasks are low-dimensional (the best we can do due to inapproximability), whereas the second is a general and practical gradient-based approach. In addition, we provide a provable sample complexity bound for few-shot learning. Our experiments on MuJoCo and Meta-World show that the proposed approach outperforms state-of-the-art multi-task, meta-, and task clustering baselines in training, generalization, and few-shot learning, often by a large margin.},
   journal={In the 42nd International Conference on Machine Learning, 2025},
   location={Vancouver},

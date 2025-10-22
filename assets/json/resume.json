@@ -39,22 +39,22 @@
       "location": "St. Louis, USA",
       "url": "https://washu.edu/",
       "area": "Artificial Intelligence and Machine Learning",
-      "studyType": "PhD",
+      "studyType": "MS",
       "startDate": "2021-09-09",
-      "endDate": "2027-05-31",
+      "endDate": "2023-06-11",
       "score": "",
-      "courses": ["Generative Modeling, Reinforcement Learning, Bayesian Methods in Machine Learning"]
+      "courses": ["Adversarial Machine Learning, Non-Linear Optimization"]
     },
     {
       "institution": "Washington University",
       "location": "St. Louis, USA",
       "url": "https://washu.edu/",
       "area": "Artificial Intelligence and Machine Learning",
-      "studyType": "MS",
+      "studyType": "PhD",
       "startDate": "2021-09-09",
-      "endDate": "2023-06-11",
+      "endDate": "2027-05-31",
       "score": "",
-      "courses": ["Adversarial Machine Learning, Non-Linear Optimization"]
+      "courses": ["Generative Modeling, Online and Reinforcement Learning, Bayesian Methods in Machine Learning"]
     },
     {
       "institution": "Indian Institute of Technology, Hyderabad",
@@ -79,6 +79,13 @@
     {
       "title": "Honors",
       "date": "2024-07-01",
+      "awarder": "Department of CSE at WashU",
+      "url": "",
+      "summary": "Selected as top 15% PhD student."
+    },
+    {
+      "title": "Honors",
+      "date": "2025-07-01",
       "awarder": "Department of CSE at WashU",
       "url": "",
       "summary": "Selected as top 15% PhD student."
@@ -153,8 +160,16 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Generative Modelling",
-        "Reinforcement Learning",
-        "Adversarial Machine Learning"
+        "Probability and Stochastic Process",
+        "Online and Reinforcement Learning"
+      ]
+    },
+    {
+      "name": "Others",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Computational Neuroscience",
+        "Philosophy"
       ]
     }
   ]

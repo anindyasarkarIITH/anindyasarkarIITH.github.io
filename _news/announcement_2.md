@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Serving as a Reviewer at **ICLR 2025**.
+We publicly release the code for [EM-PTDM: Expectation Maximized Permanent Temporary Diffusion Memory](https://github.com/KevinG396/EM_PTDM)! :sparkles:
 

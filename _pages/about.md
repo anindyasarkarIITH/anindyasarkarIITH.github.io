@@ -6,7 +6,7 @@ subtitle: <a href='#'>Washington University (WashU)</a>.<p> Ph.D. Student in Com
 
 profile:
   align: right
-  image: IMG-20240511-WA0006.jpg
+  image: IMG-20251022-WA0008.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3rd Floor Mckelvey Hall 1020</p>

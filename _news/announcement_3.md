@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are excited to publicly release the code for [GOMAA-Geo: A Goal-Modality Agnostic Active Geo-Localization](https://github.com/mvrl/GOMAA-Geo)! :sparkles: :smile:
+We publicly release the code for [GOMAA-Geo: A Goal-Modality Agnostic Active Geo-Localization](https://github.com/mvrl/GOMAA-Geo)! :sparkles:

@@ -40,10 +40,10 @@
       "url": "https://washu.edu/",
       "area": "Artificial Intelligence and Machine Learning",
       "studyType": "PhD",
-      "startDate": "2021-10-09",
-      "endDate": "2027-01-01",
+      "startDate": "2021-09-09",
+      "endDate": "2027-05-31",
       "score": "",
-      "courses": ["Reinforcement Learning, Bayesian Methods in Machine Learning, Adversarial Machine Learning"]
+      "courses": ["Generative Modeling, Reinforcement Learning, Bayesian Methods in Machine Learning"]
     },
     {
       "institution": "Washington University",
@@ -54,26 +54,15 @@
       "startDate": "2021-09-09",
       "endDate": "2023-06-11",
       "score": "",
-      "courses": ["Machine Learning, Artificial Intelligence, Non-Linear Optimization"]
+      "courses": ["Adversarial Machine Learning, Non-Linear Optimization"]
     },
     {
       "institution": "Indian Institute of Technology, Hyderabad",
       "location": "Hyderabad, INDIA",
       "url": "https://www.iith.ac.in/",
       "area": "Computational Neuroscience",
-      "studyType": "MS",
-      "startDate": "2012-09-09",
-      "endDate": "2016-12-11",
-      "score": "",
-      "courses": ["Computational Neuroscience, Digital Signal Processing, Probability and Stochastic Process, Linear Algebra"]
-    },
-    {
-      "institution": "Indian Institute of Technology, Hyderabad",
-      "location": "Hyderabad, INDIA",
-      "url": "https://www.iith.ac.in/",
-      "area": "Computational Neuroscience",
-      "studyType": "MS",
-      "startDate": "2012-09-09",
+      "studyType": "M.Tech",
+      "startDate": "2014-09-09",
       "endDate": "2016-12-11",
       "score": "",
       "courses": ["Computational Neuroscience, Digital Signal Processing, Probability and Stochastic Process, Linear Algebra"]

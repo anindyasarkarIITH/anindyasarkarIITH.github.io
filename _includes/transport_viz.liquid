@@ -1,0 +1,17 @@
+{% if page.transport_viz %}
+  <div class="transport-viz-section">
+    <h2>dynamical measure transport</h2>
+    <div class="transport-viz" id="transport-viz">
+      <div class="transport-viz-panel">
+        <div class="transport-viz-label">continuous</div>
+        <canvas id="transport-viz-continuous" class="transport-viz-canvas"></canvas>
+      </div>
+      <div class="transport-viz-divider"></div>
+      <div class="transport-viz-panel">
+        <div class="transport-viz-label">discrete</div>
+        <div id="transport-viz-discrete" class="transport-viz-grid"></div>
+      </div>
+    </div>
+  </div>
+  <script src="{{ '/assets/js/transport-viz.js' | relative_url | bust_file_cache }}" defer></script>
+{% endif %}

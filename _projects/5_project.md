@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Online Feedback-Efficient Sampling for Efficient Search and Alignment
+title: Online Feedback-Efficient Sampling for Search and Alignment
 description: Online Feedback-Efficient Sampling for Efficient Search and Alignment
 img: assets/img/papa_1.jpg
-importance: 1
+importance: 0
 category: work
 related_publications: false
 ---

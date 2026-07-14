@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Online Target Discovery with Generative Models
+title: Active Target Discovery in Partially Observable Environments
 description: Online Target Discovery with Generative Models in Partially Observable Environment
 img: assets/img/tar_disc.jpg
 importance: 1

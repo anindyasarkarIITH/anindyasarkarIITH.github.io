@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Others
-description: Reinforcement Learning, Graph Neural Network
+description: '<span class="tag">• Reinforcement Learning</span><span class="tag">• Graph Neural Networks</span>'
 img: assets/img/4.jpg
 importance: 4
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Online Feedback-Efficient Sampling for Search and Alignment
-description: Online Feedback-Efficient Sampling for Efficient Search and Alignment
+description: '<span class="tag">• Generative Modelling and Sampling</span><span class="tag">• Applied Stochastic Process</span>'
 img: assets/img/papa_1.jpg
 importance: 0
 category: work

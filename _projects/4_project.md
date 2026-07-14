@@ -1,7 +1,7 @@
 ---
 layout: page
 title: XAI and Adversarial ML
-description: XAI and Adversarial ML
+description: '<span class="tag">• Explainable AI</span><span class="tag">• Adversarial Robustness</span>'
 img: assets/img/P4.jpg
 importance: 3
 category: work

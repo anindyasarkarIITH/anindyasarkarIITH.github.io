@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visual Active Search
-description: Visual Active Search
+description: '<span class="tag">• Active Search &amp; Sequential Decision Making</span><span class="tag">• Geospatial Reasoning</span>'
 img: assets/img/p1_port.jpg
 importance: 4
 category: work

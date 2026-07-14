@@ -1,10 +1,11 @@
 ---
 layout: page
-title: XAI and Adversarial ML
-description: Explainable AI, Adversarial Robustness
+title: Explainable AI and Adversarial ML
+description: Representation Learning, Adversarial Machine Learning, Reinforcement Learning
 research_areas:
-  - Explainable AI
-  - Adversarial Robustness
+  - Representation Learning
+  - Adversarial Machine Learning
+  - Reinforcement Learning
 img: assets/img/P4.jpg
 importance: 3
 category: work

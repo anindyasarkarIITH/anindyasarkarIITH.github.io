@@ -6,6 +6,8 @@ img: assets/img/p1_port.jpg
 importance: 4
 category: work
 related_publications: false
+_styles: >
+  .post-description { display: none; }
 ---
 
 **Objective:**

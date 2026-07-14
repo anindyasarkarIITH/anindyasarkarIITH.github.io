@@ -6,6 +6,8 @@ img: assets/img/papa_1.jpg
 importance: 0
 category: work
 related_publications: false
+_styles: >
+  .post-description { display: none; }
 ---
 
 **Objective:** We study online, feedback-efficient sampling from generative (diffusion/flow) models when the object of interest — a search target or a user's preference — is unknown in advance and is only revealed through sequential feedback under a limited query budget. Existing samplers either explore locally around a small region of the distribution or rely on rigid, non-adaptive proposal dynamics, causing them to waste budget or collapse to a single mode once feedback arrives. This line of work develops feedback-driven samplers that use each new piece of feedback to steer generation toward high-utility regions while preserving sample diversity and computational efficiency, enabling effective online search and personalized preference alignment within a fixed sampling budget.

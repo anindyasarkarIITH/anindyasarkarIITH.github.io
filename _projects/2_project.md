@@ -6,6 +6,8 @@ img: assets/img/pp2_port.jpg
 importance: 2
 category: work
 related_publications: false
+_styles: >
+  .post-description { display: none; }
 ---
 
 **Objective:**

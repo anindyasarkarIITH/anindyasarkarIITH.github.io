@@ -19,7 +19,15 @@ related_publications: false
 3.  [PAPA: Online Personalized Active Preference Alignment](https://arxiv.org/abs/2607.00486) (ECML PKDD 2026)
 
 
-<div class="row">
+<style>
+.feedback-align-figs img {
+    width: 100%;
+    height: 260px;
+    object-fit: contain;
+    background-color: var(--global-bg-color);
+}
+</style>
+<div class="row feedback-align-figs">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/impfm_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>

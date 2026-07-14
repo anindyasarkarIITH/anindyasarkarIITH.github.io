@@ -20,7 +20,7 @@ Consider a scenario where a search-and-rescue mission is underway, and rescue pe
 
 1.  [GOMAA-Geo: GOal Modality Agnostic Active Geo-localization](https://arxiv.org/abs/2406.01917v1) (NeurIPS 2024)
 
-2.  Active Search in Partially Observable Environments. (Coming soon)
+2.  [DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments](https://arxiv.org/abs/2605.15519) (AAMAS 2026)
 
 
 

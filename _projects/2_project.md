@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Active Exploration in Partially Observable Environment
-description: '<span class="tag">• Active Search under Partial Observability</span><span class="tag">• Generative Modeling</span>'
+description: Active Search under Partial Observability, Generative Modeling
+research_areas:
+  - Active Search under Partial Observability
+  - Generative Modeling
 img: assets/img/pp2_port.jpg
 importance: 2
 category: work
 related_publications: false
-_styles: >
-  .post-description { display: none; }
 ---
 
 **Objective:**

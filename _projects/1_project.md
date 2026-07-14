@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Visual Active Search
-description: '<span class="tag">• Active Search &amp; Sequential Decision Making</span><span class="tag">• Geospatial Reasoning</span>'
+description: Active Search & Sequential Decision Making, Geospatial Reasoning
+research_areas:
+  - Active Search & Sequential Decision Making
+  - Geospatial Reasoning
 img: assets/img/p1_port.jpg
 importance: 4
 category: work
 related_publications: false
-_styles: >
-  .post-description { display: none; }
 ---
 
 **Objective:**

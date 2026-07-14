@@ -668,6 +668,17 @@ footer.sticky-bottom {
   }
 }
 
+// Project page header research-area tags (single line, under the title)
+.post-header {
+  .research-areas-line {
+    .tag {
+      display: inline-block;
+      color: var(--global-theme-color);
+      margin-right: 1.5rem;
+    }
+  }
+}
+
 // Publications
 
 .publications {

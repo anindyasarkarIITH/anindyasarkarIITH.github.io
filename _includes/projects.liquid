@@ -13,7 +13,13 @@
       {% endif %}
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
+        {% if project.research_areas %}
+          <p class="card-text research-areas">
+            {% for area in project.research_areas %}<span class="tag">• {{ area }}</span>{% endfor %}
+          </p>
+        {% else %}
+          <p class="card-text">{{ project.description }}</p>
+        {% endif %}
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">

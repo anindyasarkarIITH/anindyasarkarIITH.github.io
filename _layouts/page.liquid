@@ -11,7 +11,13 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-description">{{ page.description }}</p>
+    {% if page.research_areas %}
+      <p class="post-description research-areas-line">
+        {% for area in page.research_areas %}<span class="tag">• {{ area }}</span>{% endfor %}
+      </p>
+    {% else %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
   </header>
 
   <article>

@@ -26,9 +26,9 @@ related_publications: false
 <style>
 .feedback-align-figs img {
     width: 100%;
-    height: 260px;
+    height: auto;
+    aspect-ratio: 2 / 1;
     object-fit: contain;
-    background-color: var(--global-bg-color);
 }
 </style>
 <div class="row feedback-align-figs">

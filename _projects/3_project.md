@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Active Target Discovery in Partially Observable Environments
-description: Generative Modelling, Applied Stochastic Process, Uncertainty Quantification
+description: Generative Modelling, Uncertainty Quantification, Applied Stochastic Process
 research_areas:
   - Generative Modelling
-  - Applied Stochastic Process
   - Uncertainty Quantification
+  - Applied Stochastic Process
 img: assets/img/tar_disc.jpg
 importance: 1
 category: work

@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Visual Active Search
-description: Active Search & Sequential Decision Making, Geospatial Reasoning
+description: Reinforcement Learning, Representation Learning, AI for Social Impact
 research_areas:
-  - Active Search & Sequential Decision Making
-  - Geospatial Reasoning
+  - Reinforcement Learning
+  - Representation Learning
+  - AI for Social Impact
 img: assets/img/p1_port.jpg
 importance: 4
 category: work

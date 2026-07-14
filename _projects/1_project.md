@@ -27,7 +27,15 @@ Many problems can be viewed as forms of geospatial search aided by aerial imager
 4.  [Active Geospatial Search for Efficient Tenant Eviction Outreach](https://arxiv.org/abs/2412.17854)   (AAAI 2025)
 
 
-<div class="row">
+<style>
+.equal-figs img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2.5 / 1;
+    object-fit: contain;
+}
+</style>
+<div class="row equal-figs">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>

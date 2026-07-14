@@ -24,7 +24,15 @@ Consider a scenario where a search-and-rescue mission is underway, and rescue pe
 
 
 
-<div class="row">
+<style>
+.equal-figs img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2.2 / 1;
+    object-fit: contain;
+}
+</style>
+<div class="row equal-figs">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/p2-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>

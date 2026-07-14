@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Active Exploration in Partially Observable Environment
-description: Active Search under Partial Observability, Generative Modeling
+description: Reinforcement Learning, Multimodal Representation Learning, Generative Modelling
 research_areas:
-  - Active Search under Partial Observability
-  - Generative Modeling
+  - Reinforcement Learning
+  - Multimodal Representation Learning
+  - Generative Modelling
 img: assets/img/pp2_port.jpg
 importance: 2
 category: work

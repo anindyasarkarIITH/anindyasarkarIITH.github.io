@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-We publicly release the code for [EM-PTDM: Expectation Maximized Permanent Temporary Diffusion Memory](https://github.com/KevinG396/EM_PTDM)! :sparkles:.
+Our Paper [EM-PTDM: Expectation Maximized Permanent Temporary Diffusion Memory](https://arxiv.org/abs/2510.16676) is now available on arXiv. EM-PTDM is accepted to NeurIPS 2025.
 

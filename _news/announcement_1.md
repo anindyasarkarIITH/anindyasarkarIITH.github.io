@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We publicly release the code for [DiffATD: Diffusion-guided Active Target Discovery](https://github.com/KevinG396/DiffATD)! :sparkles:
+We publicly release the code for [DiffATD: Diffusion-guided Active Target Discovery](https://github.com/KevinG396/DiffATD)! :sparkles:.

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-We publicly release the code for [EM-PTDM: Expectation Maximized Permanent Temporary Diffusion Memory](https://github.com/KevinG396/EM_PTDM)! :sparkles:
+We publicly release the code for [EM-PTDM: Expectation Maximized Permanent Temporary Diffusion Memory](https://github.com/KevinG396/EM_PTDM)! :sparkles:.
 

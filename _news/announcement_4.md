@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Sequentially-Controlled Interactive Multi-Particle Flow-Maps for Online Feedback-Driven Search](https://arxiv.org/abs/2607.01144) is now available on arXiv
+Our paper [Sequentially-Controlled Interactive Multi-Particle Flow-Maps for Online Feedback-Driven Search](https://arxiv.org/abs/2607.01144) is now available on arXiv.

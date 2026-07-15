@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We publicly release the code for [DiffATD: Diffusion-guided Active Target Discovery](https://github.com/KevinG396/DiffATD)! :sparkles:.
+Our Paper [DiffATD: Diffusion-guided Active Target Discovery](https://www.arxiv.org/abs/2505.06535) is now available on arXiv. DiffATD is accepted to NeurIPS 2025.

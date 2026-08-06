@@ -40,4 +40,11 @@ transport_viz: true
     </div>
 </div>
 
+<div class="research-theme-section">
+    <h2>applied stochastic process and control</h2>
+    <div class="research-theme-card">
+        <img src="{{ 'assets/img/stochastic_process_control.gif' | relative_url }}" alt="Applied stochastic process and control: feedback control regulating a noisy process toward a target, compared against an uncontrolled random walk" loading="eager">
+    </div>
+</div>
+
 {% include transport_viz.liquid %}

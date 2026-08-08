@@ -47,11 +47,11 @@ transport_viz: true
     </div>
 </div>
 
-{% include transport_viz.liquid %}
-
 <div class="research-theme-section">
     <h2><a href="{{ '/research-themes/decision-making-partially-observable/' | relative_url }}">generative models for decision making in partially observable environments</a></h2>
     <div class="research-theme-card">
         <img src="{{ 'assets/img/generative_decision_making_pomdp.gif' | relative_url }}" alt="Generative models for decision making in partially observable environments: an agent uses a generative belief over the unobserved environment to actively decide where to query next, converging on the true target" loading="eager">
     </div>
 </div>
+
+{% include transport_viz.liquid %}

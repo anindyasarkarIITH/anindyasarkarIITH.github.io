@@ -22,6 +22,26 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "AI and ML",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Generative Modelling",
+        "Applied Stochastic Process and Control",
+        "Optimal Transport",
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "name": "Others",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Computational Neuroscience",
+        "Philosophy"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Quest Global Pvt. Ltd.",
@@ -96,7 +116,7 @@
       "awarder": "AAMAS Conference committee",
       "summary": "Awarded AAMAS-24 Student Scholarship to attend the conference and doctoral consortium.'"
     }
-     
+
   ],
   "services": [
     {
@@ -152,25 +172,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "AI and ML",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Generative Modelling",
-        "Probability and Stochastic Process",
-        "Online and Reinforcement Learning"
-      ]
-    },
-    {
-      "name": "Others",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computational Neuroscience",
-        "Philosophy"
-      ]
     }
   ]
 }

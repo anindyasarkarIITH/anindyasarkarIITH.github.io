@@ -1,24 +1,29 @@
 {
   "basics": {
     "name": "Anindya Sarkar",
-    "label": "Researcher",
+    "label": "Ph.D. Candidate, Computer Science & Engineering",
     "image": "",
     "email": "anindyasarkar.ece@gmail.com",
     "phone": "(314) 912-5116",
     "url": "https://anindyasarkariith.github.io/",
     "summary": " ",
     "location": {
-      "address": "2714 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "McKelvey Hall 1020, 1 Brookings Drive",
+      "postalCode": "63130",
+      "city": "St. Louis",
       "countryCode": "US",
-      "region": "California"
+      "region": "Missouri"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Anindya Sarkar",
+        "url": "https://scholar.google.com/citations?user=2hQyYz0AAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "anindya-sarkar",
+        "url": "https://www.linkedin.com/in/anindya-sarkar"
       }
     ]
   },
@@ -58,7 +63,7 @@
       "institution": "Washington University",
       "location": "St. Louis, USA",
       "url": "https://washu.edu/",
-      "area": "Artificial Intelligence and Machine Learning",
+      "area": "Computer Science",
       "studyType": "MS",
       "startDate": "2021-09-09",
       "endDate": "2023-06-11",
@@ -69,7 +74,7 @@
       "institution": "Washington University",
       "location": "St. Louis, USA",
       "url": "https://washu.edu/",
-      "area": "Artificial Intelligence and Machine Learning",
+      "area": "Computer Science & Engineering",
       "studyType": "PhD",
       "startDate": "2021-09-09",
       "endDate": "2027-05-31",
@@ -80,7 +85,7 @@
       "institution": "Indian Institute of Technology, Hyderabad",
       "location": "Hyderabad, INDIA",
       "url": "https://www.iith.ac.in/",
-      "area": "Computational Neuroscience",
+      "area": "Bio-Medical Engineering",
       "studyType": "M.Tech",
       "startDate": "2014-09-09",
       "endDate": "2016-12-11",
@@ -90,79 +95,27 @@
   ],
    "awards": [
     {
-      "title": "Ministry of Human Resource Development (MHRD) scholarship",
-      "date": "2014-07-01",
-      "awarder": "Govt. of India",
-      "url": "",
-      "summary": "MHRD scholarship was awarded to pursue Masters study."
-    },
-    {
-      "title": "Honors",
-      "date": "2024-07-01",
+      "title": "Departmental Honors",
+      "date": "2026-07-01",
       "awarder": "Department of CSE at WashU",
       "url": "",
-      "summary": "Selected as top 15% PhD student."
-    },
-    {
-      "title": "Honors",
-      "date": "2025-07-01",
-      "awarder": "Department of CSE at WashU",
-      "url": "",
-      "summary": "Selected as top 15% PhD student."
+      "summary": "Selected as a top 15% PhD student (2024, 2025, 2026)."
     },
     {
       "title": "AAMAS Student Scholarship",
       "date": "2024-05-01",
       "awarder": "AAMAS Conference committee",
-      "summary": "Awarded AAMAS-24 Student Scholarship to attend the conference and doctoral consortium.'"
+      "url": "",
+      "summary": "Awarded the AAMAS-24 Student Scholarship to attend the conference and doctoral consortium."
+    },
+    {
+      "title": "Ministry of Human Resource Development (MHRD) scholarship",
+      "date": "2014-07-01",
+      "awarder": "Govt. of India",
+      "url": "",
+      "summary": "Awarded to pursue M.Tech. study (2014-2016)."
     }
-
-  ],
-  "services": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "languages": [
+  ],  "languages": [
     {
       "language": "Bengali",
       "fluency": "Native speaker",

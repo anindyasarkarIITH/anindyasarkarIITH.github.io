@@ -16,7 +16,7 @@ related_publications: false
 
 **Related Publications:**
 
-1.  [Sequentially-Controlled Interactive Multi-Particle Flow-Maps for Online Feedback-Driven Search](https://arxiv.org/abs/2607.01144) (arXiv 2026)
+1.  [Sampling Meets Interaction: Sequentially-Controlled Multi-Particle Flow-Maps for Efficient Inference-time Search](https://arxiv.org/pdf/2607.01144) (arXiv 2026)
 
 2.  [Bootstrap Flow-Map Tree Sampling Enables Online Feedback Driven Search](https://arxiv.org/abs/2607.02915) (arXiv 2026)
 

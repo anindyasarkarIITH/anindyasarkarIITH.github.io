@@ -18,7 +18,7 @@ related_publications: false
 
 1.  [Sampling Meets Interaction: Sequentially-Controlled Multi-Particle Flow-Maps for Efficient Inference-time Search](https://arxiv.org/pdf/2607.01144) (arXiv 2026)
 
-2.  [Bootstrap Flow-Map Tree Sampling Enables Online Feedback Driven Search](https://arxiv.org/abs/2607.02915) (arXiv 2026)
+2.  [BFMT: Enhancing Search Capabilities of Tree Sampler via Bootstrap Flow-Map Tree](https://arxiv.org/pdf/2607.02915v2) (arXiv 2026)
 
 3.  [PAPA: Online Personalized Active Preference Alignment](https://arxiv.org/abs/2607.00486) (ECML PKDD 2026)
 

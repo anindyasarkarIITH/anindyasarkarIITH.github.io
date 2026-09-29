@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Bootstrap Flow-Map Tree Sampling Enables Online Feedback Driven Search](https://arxiv.org/abs/2607.02915) is now available on arXiv.
+Our paper [BFMT: Enhancing Search Capabilities of Tree Sampler via Bootstrap Flow-Map Tree](https://arxiv.org/pdf/2607.02915v2) is now available on arXiv.

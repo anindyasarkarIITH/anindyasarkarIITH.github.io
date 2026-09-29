@@ -27,21 +27,21 @@ related_publications: false
 .feedback-align-figs img {
     width: 100%;
     height: auto;
-    aspect-ratio: 2 / 1;
+    aspect-ratio: 1.65 / 1;
     object-fit: contain;
 }
 </style>
 <div class="row feedback-align-figs">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/impfm_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/impfm_fig1.png" title="IMPFM: conceptual overview" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bfmt_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bfmt_fig1.png" title="BFMT: overview" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/papa_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/papa_1.jpg" title="PAPA: overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Representative figures from the papers.
+    Figure 1 from each paper: IMPFM, BFMT, and PAPA.
 </div>

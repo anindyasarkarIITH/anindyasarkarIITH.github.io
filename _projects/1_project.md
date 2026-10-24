@@ -26,6 +26,8 @@ Many problems can be viewed as forms of geospatial search aided by aerial imager
    
 4.  [Active Geospatial Search for Efficient Tenant Eviction Outreach](https://arxiv.org/abs/2412.17854)   (AAAI 2025)
 
+5.  [Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery](https://arxiv.org/abs/2602.17605) (NeurIPS 2026)
+
 
 <style>
 .equal-figs img {

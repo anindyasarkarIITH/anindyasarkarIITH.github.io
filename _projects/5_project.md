@@ -16,11 +16,15 @@ related_publications: false
 
 **Related Publications:**
 
-1.  [Sampling Meets Interaction: Sequentially-Controlled Multi-Particle Flow-Maps for Efficient Inference-time Search](https://arxiv.org/pdf/2607.01144) (arXiv 2026)
+1.  [BSIT: Bootstrap Stochastic Interpolant Tree for Inference-time Search Under Sparse Reward](https://arxiv.org/abs/2610.24185) (arXiv 2026)
 
-2.  [BFMT: Enhancing Search Capabilities of Tree Sampler via Bootstrap Flow-Map Tree](https://arxiv.org/pdf/2607.02915v2) (arXiv 2026)
+2.  [LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery](https://arxiv.org/pdf/2609.06761) (NeurIPS Workshop 2026)
 
-3.  [PAPA: Online Personalized Active Preference Alignment](https://arxiv.org/abs/2607.00486) (ECML PKDD 2026)
+3.  [Sampling Meets Interaction: Sequentially-Controlled Multi-Particle Flow-Maps for Efficient Inference-time Search](https://arxiv.org/pdf/2607.01144) (arXiv 2026)
+
+4.  [BFMT: Enhancing Search Capabilities of Tree Sampler via Bootstrap Flow-Map Tree](https://arxiv.org/pdf/2607.02915v2) (arXiv 2026)
+
+5.  [PAPA: Online Personalized Active Preference Alignment](https://arxiv.org/abs/2607.00486) (ECML PKDD 2026)
 
 
 <style>

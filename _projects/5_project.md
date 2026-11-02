@@ -6,7 +6,7 @@ research_areas:
   - Generative Modelling
   - Sampling
   - Applied Stochastic Process
-img: assets/img/bfmt_fig8.png
+img: assets/img/bfmt_fig8_molecules.png
 importance: 0
 category: work
 related_publications: false

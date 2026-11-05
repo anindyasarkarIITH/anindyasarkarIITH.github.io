@@ -2,12 +2,11 @@
   "basics": {
     "name": "Anindya Sarkar",
     "label": "Ph.D. Candidate, Computer Science & Engineering",
-    "affiliation": "Washington University in St. Louis",
-    "advisor": "Prof. Yevgeniy Vorobeychik",
+    "image": "",
     "email": "anindyasarkar.ece@gmail.com",
     "phone": "(314) 912-5116",
     "url": "https://anindyasarkariith.github.io/",
-    "research": "My goal is to build AI models that can understand, generate, plan, and reason over high-dimensional data across modalities. I am particularly interested in developing generative modeling algorithms that are mathematically grounded and scale to achieve state-of-the-art performance in data-constrained settings, such as scientific discovery and medical diagnosis. My current work aims to improve generative models' search capabilities to accelerate target discovery. I also investigate the capabilities of generative models to tackle planning and reasoning in complex, partially observable environments such as overhead and underwater environments. To tackle this broad range of problems, I draw on tools from Generative Modeling and Sampling, Applied Stochastic Processes and Control, Optimal Transport, and Reinforcement Learning.",
+    "summary": " ",
     "location": {
       "address": "McKelvey Hall 1020, 1 Brookings Drive",
       "postalCode": "63130",
@@ -30,418 +29,102 @@
   },
   "interests": [
     {
-      "name": "Generative Modeling & Sampling",
+      "name": "AI and ML",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Enhancing inference-time search and fine-grained alignment capabilities of generative models: IMPFM, BFMT, BSIT [Under Review], PAPA [ECML 2026], LATS [NeurIPS 2026 Workshop]",
-        "Active target discovery under partially observable environments via uncertainty-aware generative models: EM-PTDM, DiffATD [NeurIPS 2025]"
+        "Generative Modelling",
+        "Applied Stochastic Process and Control",
+        "Optimal Transport",
+        "Reinforcement Learning"
       ]
     },
     {
-      "name": "Reinforcement Learning",
+      "name": "Others",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Visual & geospatial active search for social good: OWL-GPS [NeurIPS 2026], VAS [WACV 2024], PS-VAS [NeurIPS 2023], GOMAA-Geo [NeurIPS 2024], DiffVAS [AAMAS 2026], AGS [AAAI 2025, AAMAS 2024]",
-        "Multi-task RL: PACMAN [ICML 2025]"
+        "Computational Neuroscience",
+        "Philosophy"
       ]
-    },
-    {
-      "name": "Optimal Transport",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["Out-of-distribution active target discovery via Wasserstein gradient flow [In Progress]"]
-    },
-    {
-      "name": "Representation Learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Robustness & explainability: Ante-hoc Explainability [CVPR 2022], Attributional Robustness [AAAI 2021], Adversarial Robustness [NeurIPS 2021], Robustness against Unseen Noise [WACV 2022], Reward-delay Attack on RL [GameSec 2022]",
-        "Graph neural networks: Representation Capability of Message Passing GNN [NeurIPS 2022]"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Washington University in St. Louis",
-      "location": "St. Louis, MO, USA",
-      "url": "https://washu.edu/",
-      "area": "Computer Science & Engineering",
-      "studyType": "Ph.D.",
-      "startDate": "2021-09-02",
-      "endDate": "2027-05 (exp.)",
-      "courses": ["Advisor: Prof. Yevgeniy Vorobeychik"]
-    },
-    {
-      "institution": "Washington University in St. Louis",
-      "location": "St. Louis, MO, USA",
-      "url": "https://washu.edu/",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2021-09-01",
-      "endDate": "2023-06"
-    },
-    {
-      "institution": "Indian Institute of Technology Hyderabad",
-      "location": "Hyderabad, India",
-      "url": "https://www.iith.ac.in/",
-      "area": "Bio-Medical Engineering",
-      "studyType": "M.Tech.",
-      "startDate": "2014-09",
-      "endDate": "2016-12"
     }
   ],
   "work": [
     {
-      "name": "Washington University in St. Louis",
-      "position": "Graduate Research Assistant",
-      "location": "St. Louis, MO, USA",
-      "startDate": "2021-09",
-      "summary": "Advisor: Prof. Yevgeniy Vorobeychik",
-      "highlights": [
-        "Enhancing search capabilities of generative models",
-        "Uncertainty-aware generative models for active target discovery in partially observable environments",
-        "Generative models for planning under partially observable environments",
-        "Visual & geospatial active search"
-      ]
-    },
-    {
-      "name": "Indian Institute of Technology Hyderabad",
-      "position": "Research Assistant",
-      "location": "Hyderabad, India",
-      "startDate": "2020",
-      "endDate": "2021",
-      "summary": "Advisor: Prof. Vineeth N. Balasubramanian",
-      "highlights": [
-        "Adversarial machine learning: attributional and adversarial robustness",
-        "Ante-hoc explainable model architectures",
-        "Test-time robustness to unseen noise"
-      ]
-    },
-    {
       "name": "Quest Global Pvt. Ltd.",
-      "position": "R&D Engineer, Deep Learning",
-      "location": "India",
-      "startDate": "2016-07",
-      "endDate": "2020-03",
-      "highlights": ["Deep learning for computer vision and natural language processing across applied products"]
+      "position": "Research and Development Engineer",
+      "url": "https://example.com",
+      "startDate": "2016-07-21",
+      "endDate": "2020-03-17",
+      "summary": "Extensively worked on a broad range of Deep Learning applications in Computer Vision and Natural Language Processing tasks.",
+      "highlights": ["Deep Learning for Computer Vision and Natural Language Processing"]
     }
   ],
-  "publications": [
+  "education": [
     {
-      "name": "Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery",
-      "publisher": "NeurIPS 2026",
-      "releaseDate": "2026",
-      "url": "https://arxiv.org/abs/2602.17605",
-      "summary": "Jowaria Khan, Anindya Sarkar, Yevgeniy Vorobeychik, Elizabeth Bondi Kelly"
+      "institution": "Washington University",
+      "location": "St. Louis, USA",
+      "url": "https://washu.edu/",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "2021-09-09",
+      "endDate": "2023-06-11",
+      "score": "",
+      "courses": ["Adversarial Machine Learning, Non-Linear Optimization"]
     },
     {
-      "name": "PAPA: Online Personalized Active Preference Alignment",
-      "publisher": "ECML PKDD 2026",
-      "releaseDate": "2026",
-      "url": "https://arxiv.org/abs/2607.00486",
-      "summary": "Anindya Sarkar, Nasik Muhammad Nafi, Isaac Lyngaas, Muralikrishnan Gopalakrishnan Meena, Yevgeniy Vorobeychik"
+      "institution": "Washington University",
+      "location": "St. Louis, USA",
+      "url": "https://washu.edu/",
+      "area": "Computer Science & Engineering",
+      "studyType": "PhD",
+      "startDate": "2021-09-09",
+      "endDate": "2027-05-31",
+      "score": "",
+      "courses": ["Generative Modeling, Sampling, Applied Stochastic Process and Control, Uncertainty Quantification, Reinforcement Learning"]
     },
     {
-      "name": "DiffVAS: Diffusion-Guided Visual Active Search in Partially Observable Environments",
-      "publisher": "AAMAS 2026",
-      "releaseDate": "2026",
-      "url": "https://arxiv.org/abs/2605.15519",
-      "summary": "Anindya Sarkar, Srikumar Sastry, Aleksis Pirinen, Nathan Jacobs, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory",
-      "publisher": "NeurIPS 2025",
-      "releaseDate": "2025",
-      "url": "https://arxiv.org/abs/2510.16676",
-      "summary": "Anindya Sarkar, Binglin Ji, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "Online Feedback Efficient Active Target Discovery in Partially Observable Environments",
-      "publisher": "NeurIPS 2025",
-      "releaseDate": "2025",
-      "url": "https://www.arxiv.org/abs/2505.06535",
-      "summary": "Anindya Sarkar, Binglin Ji, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "Learning Policy Committees for Effective Personalization in MDPs with Diverse Tasks",
-      "publisher": "ICML 2025",
-      "releaseDate": "2025",
-      "url": "https://arxiv.org/abs/2503.01885",
-      "summary": "Luise Ge, Michael Lanier, Anindya Sarkar, Bengisu Guresti, Chongjie Zhang, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "Active Geospatial Search for Efficient Tenant Eviction Outreach",
-      "publisher": "AAAI 2025",
-      "releaseDate": "2025",
-      "url": "https://arxiv.org/abs/2412.17854",
-      "summary": "Anindya Sarkar, Alex DiChristofano, Sanmay Das, Patrick Fowler, Nathan Jacobs, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "GOMAA-Geo: GOal Modality Agnostic Active Geo-localization",
-      "publisher": "NeurIPS 2024",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2406.01917",
-      "summary": "Anindya Sarkar, Srikumar Sastry, Aleksis Pirinen, Chongjie Zhang, Nathan Jacobs, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "A Visual Active Search Framework for Geospatial Exploration",
-      "publisher": "WACV 2024",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/pdf/2211.15788",
-      "summary": "Anindya Sarkar, Michael Lanier, Scott Alfeld, Jiarui Feng, Roman Garnett, Nathan Jacobs, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "Geospatial Active Search for Preventing Evictions",
-      "publisher": "AAMAS 2024",
-      "releaseDate": "2024",
-      "url": "https://dl.acm.org/doi/abs/10.5555/3635637.3663192",
-      "summary": "Anindya Sarkar, Alex DiChristofano, Sanmay Das, Patrick Fowler, Nathan Jacobs, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "A Partially-Supervised Reinforcement Learning Framework for Visual Active Search",
-      "publisher": "NeurIPS 2023",
-      "releaseDate": "2023",
-      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/288b63aa98084366c4536ba0574a0f22-Abstract-Conference.html",
-      "summary": "Anindya Sarkar, Nathan Jacobs, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "How Powerful are K-hop Message Passing Graph Neural Networks",
-      "publisher": "NeurIPS 2022",
-      "releaseDate": "2022",
-      "url": "https://arxiv.org/pdf/2205.13328",
-      "summary": "Jiarui Feng, Yixin Chen, Fuhai Li, Anindya Sarkar, Muhan Zhang"
-    },
-    {
-      "name": "A Framework for Learning Ante-hoc Explainable Models via Concepts",
-      "publisher": "CVPR 2022",
-      "releaseDate": "2022",
-      "url": "https://ieeexplore.ieee.org/document/9879843",
-      "summary": "Anirban Sarkar, Deepak Vijaykeerthy, Anindya Sarkar, Vineeth N. Balasubramanian"
-    },
-    {
-      "name": "Leveraging Test-Time Consensus Prediction for Robustness against Unseen Noise",
-      "publisher": "WACV 2022",
-      "releaseDate": "2022",
-      "url": "https://openaccess.thecvf.com/content/WACV2022/html/Sarkar_Leveraging_Test-Time_Consensus_Prediction_for_Robustness_Against_Unseen_Noise_WACV_2022_paper.html",
-      "summary": "Anindya Sarkar, Anirban Sarkar, Vineeth N. Balasubramanian"
-    },
-    {
-      "name": "Reward Delay Attacks on Deep Reinforcement Learning",
-      "publisher": "GameSec 2022",
-      "releaseDate": "2022",
-      "url": "https://arxiv.org/abs/2209.03540",
-      "summary": "Anindya Sarkar, Jiarui Feng, Yevgeniy Vorobeychik, Christopher Gill, Ning Zhang"
-    },
-    {
-      "name": "Get Fooled for the Right Reason: Improving Adversarial Robustness through a Teacher-Guided Curriculum Learning Approach",
-      "publisher": "NeurIPS 2021",
-      "releaseDate": "2021",
-      "url": "https://arxiv.org/pdf/2111.00295",
-      "summary": "Anindya Sarkar, Anirban Sarkar, Sowrya Gali, Vineeth N. Balasubramanian"
-    },
-    {
-      "name": "Enhanced Regularizers for Attributional Robustness",
-      "publisher": "AAAI 2021",
-      "releaseDate": "2021",
-      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16355",
-      "summary": "Anindya Sarkar, Anirban Sarkar, Vineeth N. Balasubramanian"
-    },
-    {
-      "name": "Enforcing Linearity in DNN Succours Robustness and Adversarial Image Generation",
-      "publisher": "ICANN 2020",
-      "releaseDate": "2020",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-030-61609-0_5",
-      "summary": "Anindya Sarkar, Raghu Iyengar"
-    },
-    {
-      "name": "ODE-Guided Neural Data Augmentation Techniques for Time Series Data and its Benefits on Robustness",
-      "publisher": "ICMLA 2020",
-      "releaseDate": "2020",
-      "url": "https://arxiv.org/pdf/1910.06813",
-      "summary": "Anindya Sarkar, Anirudh Raj, Raghu Iyengar"
-    },
-    {
-      "name": "Zero-Shot Multilingual Sentiment Analysis using Hierarchical Attentive Network and BERT",
-      "publisher": "NLPIR 2019",
-      "releaseDate": "2019",
-      "url": "https://dl.acm.org/doi/10.1145/3342827.3342850",
-      "summary": "Anindya Sarkar, Sujeeth Reddy, Raghu Iyengar"
-    },
-    {
-      "name": "Curated Model Development Using NEUROiD: A Web-Based NEUROmotor Integration and Design Platform",
-      "publisher": "Frontiers in Neuroinformatics (journal), 2019",
-      "releaseDate": "2019",
-      "url": "https://raiithold.iith.ac.in/2597/",
-      "summary": "Anindya Sarkar"
+      "institution": "Indian Institute of Technology, Hyderabad",
+      "location": "Hyderabad, INDIA",
+      "url": "https://www.iith.ac.in/",
+      "area": "Bio-Medical Engineering",
+      "studyType": "M.Tech",
+      "startDate": "2014-09-09",
+      "endDate": "2016-12-11",
+      "score": "",
+      "courses": ["Computational Neuroscience, Digital Signal Processing, Probability and Stochastic Process, Linear Algebra"]
     }
   ],
-  "manuscripts": [
-    {
-      "name": "Sampling Meets Interaction: Sequentially-Controlled Multi-Particle Flow-Maps for Efficient Inference-time Search",
-      "publisher": "arXiv:2607.01144",
-      "releaseDate": "2026",
-      "url": "https://arxiv.org/abs/2607.01144",
-      "summary": "Binglin Ji, Anindya Sarkar, Hengchang Lu, Jens Sjölund, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "BFMT: Enhancing Search Capabilities of Tree Sampler via Bootstrap Flow-Map Tree",
-      "publisher": "arXiv:2607.02915",
-      "releaseDate": "2026",
-      "url": "https://arxiv.org/abs/2607.02915",
-      "summary": "Binglin Ji, Anindya Sarkar, Hengchang Lu, Kunyu Wang, Alessandro Tibo, Jens Sjölund, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "BSIT: Bootstrap Stochastic Interpolant Tree for Efficient Search under Sparse Reward",
-      "publisher": "Under review",
-      "releaseDate": "2026",
-      "summary": "Binglin Ji, Anindya Sarkar, Yevgeniy Vorobeychik"
-    }
-  ],
-  "workshops": [
-    {
-      "name": "LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery",
-      "publisher": "NeurIPS 2026 Workshop on AI for Stochastic Dynamics",
-      "releaseDate": "2026",
-      "url": "https://arxiv.org/pdf/2609.06761",
-      "summary": "Binglin Ji, Anindya Sarkar, Hengchang Lu, Lecheng Kong, Yixin Chen, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "Attacks on Node Attributes in Graph Neural Networks",
-      "publisher": "AAAI 2024 Workshop on AI for Cyber Security",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2402.12426",
-      "summary": "Xu Ying, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik"
-    },
-    {
-      "name": "Empowering a Robust Model with Stable and Object-Aligned Explanations",
-      "publisher": "ECCV 2022 Workshop on Adversarial Robustness in the Real World",
-      "releaseDate": "2022",
-      "url": "https://eccv22-arow.github.io/short_paper/0013.pdf",
-      "summary": "Sowrya Gali, Anindya Sarkar, Vineeth N. Balasubramanian"
-    },
-    {
-      "name": "Inducing Semantic Grouping of Latent Concepts for Explanations: An Ante-Hoc Approach",
-      "publisher": "ECCV 2020 Workshop",
-      "releaseDate": "2020",
-      "url": "https://arxiv.org/pdf/2108.11761v1",
-      "summary": "Anirban Sarkar, Deepak Vijaykeerthy, Anindya Sarkar, Vineeth N. Balasubramanian"
-    }
-  ],
-  "talks": [
-    {
-      "title": "Enhancing Exploration Capabilities of Generative Models via Interactive Particle Dynamics",
-      "date": "2026-10",
-      "awarder": "Invited talk, AstraZeneca, Gothenburg, Sweden (Molecular AI, Discovery Sciences)",
-      "summary": "Hosted by Dr. Alessandro Tibo"
-    },
-    {
-      "title": "Visual Active Search for Social Good",
-      "date": "2025-10",
-      "awarder": "Invited talk, University of Michigan",
-      "summary": "Hosted by Prof. Elizabeth Bondi-Kelly"
-    },
-    {
-      "title": "Doctoral Consortium, AAMAS 2024",
-      "date": "2024-05",
-      "awarder": "23rd International Conference on Autonomous Agents and Multiagent Systems"
-    },
-    {
-      "title": "Conference presentations",
-      "awarder": "Presented work at NeurIPS (2021, 2023, 2024, 2025 ×2), AAAI (2021, 2025), AAMAS (2024, 2026), WACV (2022, 2024), ECML PKDD (2026), GameSec (2022), ICANN (2020), ICMLA (2020), and NLPIR (2019)."
-    }
-  ],
-  "teaching": [
-    {
-      "position": "Teaching Assistant, CS755: Adversarial Machine Learning",
-      "organization": "Computer Science & Engineering, Washington University in St. Louis",
-      "startDate": "2024-08",
-      "endDate": "2024-12"
-    }
-  ],
-  "mentoring": [
-    {
-      "position": "Binglin Ji",
-      "organization": "M.S., Washington University in St. Louis",
-      "startDate": "2025",
-      "endDate": "2026",
-      "summary": "Two NeurIPS 2025 papers (DiffATD; EM-PTDM), one NeurIPS 2026 workshop paper (LATS), and three manuscripts under review on the search capabilities of generative models."
-    },
-    {
-      "position": "Xinyu Wang",
-      "organization": "M.S., Washington University in St. Louis",
-      "startDate": "2026",
-      "summary": "Safe active search in underwater environments (in progress)."
-    },
-    {
-      "position": "Hengchang Lu",
-      "organization": "M.S., Northwestern University",
-      "startDate": "2025",
-      "endDate": "2026",
-      "summary": "One NeurIPS 2026 workshop paper (LATS) and three manuscripts under review on the search capabilities of generative models."
-    },
-    {
-      "position": "Sowrya Gali",
-      "organization": "Undergraduate, Indian Institute of Technology Hyderabad",
-      "startDate": "2021",
-      "endDate": "2021",
-      "summary": "NeurIPS 2021 paper on teacher-guided curriculum learning for adversarial robustness; ECCV 2022 Workshop paper on object-aligned robust explanations of neural networks."
-    }
-  ],
-  "service": [
-    {
-      "name": "Program Committee",
-      "icon": "fa-solid fa-users",
-      "keywords": ["AAAI (2024–2026)"]
-    },
-    {
-      "name": "Conference Reviewer",
-      "icon": "fa-solid fa-pen-to-square",
-      "keywords": ["NeurIPS (2021–2026)", "ICML (2021–2026)", "CVPR (2022–2026)", "AAMAS (2022–2026)", "ICLR (2023–2026)", "ECCV (2024–2026)"]
-    }
-  ],
-  "awards": [
+   "awards": [
     {
       "title": "Departmental Honors",
-      "date": "2024–2026",
-      "awarder": "Department of Computer Science & Engineering, Washington University in St. Louis",
-      "summary": "Top 15% of Ph.D. students"
+      "date": "2026-07-01",
+      "awarder": "Department of CSE at WashU",
+      "url": "",
+      "summary": "Selected as a top 15% PhD student (2024, 2025, 2026)."
     },
     {
       "title": "AAMAS Student Scholarship",
-      "date": "2024",
-      "awarder": "AAMAS Conference Committee",
-      "summary": "Conference attendance and Doctoral Consortium"
+      "date": "2024-05-01",
+      "awarder": "AAMAS Conference committee",
+      "url": "",
+      "summary": "Awarded the AAMAS-24 Student Scholarship to attend the conference and doctoral consortium."
     },
     {
-      "title": "MHRD Scholarship",
-      "date": "2014–2016",
-      "awarder": "Ministry of Human Resource Development, Government of India",
-      "summary": "For M.Tech. study"
+      "title": "Ministry of Human Resource Development (MHRD) scholarship",
+      "date": "2014-07-01",
+      "awarder": "Govt. of India",
+      "url": "",
+      "summary": "Awarded to pursue M.Tech. study (2014-2016)."
     }
-  ],
-  "skills": [
+  ],  "languages": [
     {
-      "name": "Software",
-      "icon": "fa-solid fa-code",
-      "keywords": ["Python, C/C++, MATLAB", "PyTorch, JAX, NumPy/SciPy, Hugging Face"]
+      "language": "Bengali",
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
-      "name": "Infrastructure",
-      "icon": "fa-solid fa-server",
-      "keywords": ["Distributed multi-GPU training", "SLURM HPC clusters"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Prof. Yevgeniy Vorobeychik",
-      "reference": "Ph.D. advisor. Computer Science & Engineering, Washington University in St. Louis"
-    },
-    {
-      "name": "Prof. Vineeth N. Balasubramanian",
-      "reference": "Former advisor. Computer Science & Engineering, Indian Institute of Technology Hyderabad"
-    },
-    {
-      "name": "Prof. Jens Sjölund",
-      "reference": "Collaborator. Computer Science & Engineering, Uppsala University, Sweden"
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ]
 }

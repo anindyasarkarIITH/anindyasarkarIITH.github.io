@@ -79,19 +79,7 @@ layout: default
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">
-              {% case data[0] %}
-                {% when 'basics' %}About
-                {% when 'interests' %}Research Areas
-                {% when 'work' %}Research &amp; Industry Experience
-                {% when 'publications' %}Conference &amp; Journal Publications
-                {% when 'manuscripts' %}Manuscripts Under Review
-                {% when 'workshops' %}Workshop Publications
-                {% when 'talks' %}Talks &amp; Presentations
-                {% when 'service' %}Professional Service
-                {% when 'awards' %}Honors &amp; Awards
-                {% when 'skills' %}Technical Skills
-                {% else %}{{ data[0] | capitalize }}
-              {% endcase %}
+              {% if data[0] == 'interests' %}Research Interest{% elsif data[0] == 'work' %}Industry Experience{% else %}{{ data[0] | capitalize }}{% endif %}
             </h3>
             <div>
               {% case data[0] %}
@@ -109,14 +97,8 @@ layout: default
                   {% include resume/awards.liquid %}
                 {% when 'Services' %}
                   {% include resume/Services.liquid %}
-                {% when 'publications', 'manuscripts', 'workshops' %}
+                {% when 'publications' %}
                   {% include resume/publications.liquid %}
-                {% when 'talks' %}
-                  {% include resume/awards.liquid %}
-                {% when 'teaching', 'mentoring' %}
-                  {% include resume/volunteer.liquid %}
-                {% when 'service', 'skills' %}
-                  {% include resume/skills.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}

@@ -1,6 +1,6 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% comment %} Listed in the order given in resume.json (newest first), so same-year entries keep the CV's order. {% endcomment %}
-  {% for content in data[1] %}
+  {% assign publications = data[1] | sort: 'releaseDate' | reverse %}
+  {% for content in publications %}
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">

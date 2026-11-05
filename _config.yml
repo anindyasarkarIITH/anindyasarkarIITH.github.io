@@ -641,6 +641,13 @@ jsonresume:
   - work
   - education
   - publications
+  - manuscripts
+  - workshops
+  - talks
+  - teaching
+  - mentoring
+  - service
+  - skills
   - projects
   - volunteer
   - awards
